@@ -1,0 +1,60 @@
+{"Hospital":{
+        "Name":"Advocate Christ Medical Center",
+		"Address":"Plot No.6,Mohan Nagar,Delhi",
+		"GoogleAccount":{"Email":"MedicalAdvocate@gmail.com"},
+		"Sections":[
+					"Physiotherapists":{
+						"Doctor":{
+							"Name":"Dr.Vinay Kumar Jain",
+							"StudyDetails":"M.B.A.",
+							"Contact No.":1234567890
+						}
+					}
+					"Anaesthetics":{
+						"Doctor":{
+							"Name":"Dr.Sanjay Kumar",
+							"StudyDetails":"M.B.A.",
+							"Contact No.":2234567890
+						}
+					}
+					"Endoscopy":{
+						"Doctor":{
+							"Name":"Dr.Vijay Kumar",
+							"StudyDetails":"M.B.B.S",
+							"Contact No.":2334567890
+						}
+					}
+					"GeneralSurgery":{
+						"AvailableSurgery":["Day","Thyroid","Kidney","Colon","Breast"],
+						"Doctor":{
+							"Name":"Dr.Rajat Jain",
+							"StudyDetails":"B.A.M.S",
+							"Contact No.":2244567890
+						}
+					}
+					"NutritionAndDietiest":{
+						"AvailableDiets":["Diabities","Cancer","KidneyProblems","Paediatrics"],
+						"Doctor":{
+							"Name":"Dr. Anand Jain",
+							"StudyDetails":"M.D.S",
+							"Contact No.":8624988093
+						}
+					}
+					"Ophthalmology":{
+						"Avalibility":["Diabities","Cancer","KidneyProblems","Paediatrics"],
+						"Doctor":{
+							"Name":"Dr. Subhash Jain",
+							"StudyDetails":"B.H.M.S",
+							"Contact No.":8624988093
+						}
+					}
+		]
+		"InstrumentDepartment":["strature","Gas Cylinder","Gauge Sponge.."],
+		"Reception":["Patient's Detail","Payment Detail.."],
+		"Ambulance":[
+					"Ambulance1":{"ContactNo.":7083456871},
+					"Ambulance2":{"ContactNo.":9452027390},
+					"Ambulance3":{"ContactNo.":8624988093},
+					
+		]
+}		
