@@ -1,0 +1,5 @@
+Hii {name},
+I hope you enjoy on {date}.
+I text you to just remaind that the cost of hotel rent is {total}.
+Thank you.
+Hotel BalaJi Sarover
